@@ -1,3 +1,10 @@
+library(tidyverse)
+library(magrittr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+
 # titanic is avaliable in your workspace
 # 1 - Check the structure of titanic
 str(titanic)
